@@ -11,11 +11,11 @@ Each cover object contains a `filename` and an `artist`.
 The filenames are relative, since there has been no canonical place to host cover images.
 However, they can be served through [rawgit](http://rawgit.com) using the following scheme in your app:
 
-`https://cdn.rawgit.com/plympton/rtc/master/rtc_covers/{filename.jpeg}`
+`https://cdn.rawgit.com/plympton/rtc/master/rtc_books/{filename.jpeg}`
 
 Smaller, 400px versions are available at:
 
-`https://cdn.rawgit.com/plympton/rtc/master/rtc_covers_resized/{filename.jpeg}`
+`https://cdn.rawgit.com/plympton/rtc/master/rtc_books_resized/{filename.jpeg}`
 
 In the future, we hope to have more image sizes available or serve images through a cdn that provides on-demand image optimization.
 
