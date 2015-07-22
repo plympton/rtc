@@ -21,7 +21,7 @@ In the future, we hope to have more image sizes available or serve images throug
 
 ## Future
 
-Future books and covers will be added to the repo periodically. Follow the commit logs for more. We might figure
+Future books and covers will be added to the repo periodically. Follow the commit logs for more.
 
 ## License
 
