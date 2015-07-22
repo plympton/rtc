@@ -25,7 +25,7 @@ Future books and covers will be added to the repo periodically. Follow the commi
 
 ## License
 
-Book covers are licensed for non-commercial use, with attribution, only (see [LICENSE.md](license.md)). For commercial licensing, please send an email to [hello@recoveringtheclassics.com](mailto:hello@recoveringtheclassics.com).
+Book covers are licensed for non-commercial use, with attribution, only (see [LICENSE.md](license.md)). For commercial licensing, please send an email to hello@recoveringtheclassics.com.
 
 ## More Info
 http://recoveringtheclassics.com
