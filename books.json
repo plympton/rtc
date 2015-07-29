@@ -1,5 +1,45 @@
 [
   {
+    "name":"Narrative of the Life of Frederick Douglas",
+    "covers":[
+        {
+          "filename":"rtc_Narrative+of+the+Life+of+Frederick+Douglass_Benjy+Brooke.jpeg",
+          "artist":"Benjy Brooke"
+        }
+    ],
+    "author":"Frederick Douglas"
+  },
+  {
+    "name":"My Antonia",
+    "covers":[
+        {
+          "filename":"rtc_My+Antonia_Ed+Gaither+-+Modern+Electrographic.jpeg",
+          "artist":"Ed Gaither - Modern Electrographic"
+        }
+    ],
+    "author":"Willa Cather"
+  },
+  {
+    "name":"The Awakening",
+    "covers":[
+        {
+          "filename":"rtc_The+Awakening_Ed+Gaither+-+Modern+Electrographic.jpeg",
+          "artist":"Ed Gaither - Modern Electrographic"
+        }
+    ],
+    "author":"Kate Chopin"
+  },
+  {
+    "name":"The Awakening",
+    "covers":[
+        {
+          "filename":"rtc_The+Awakening_Ed+Gaither+-+Modern+Electrographic.jpeg",
+          "artist":"Ed Gaither - Modern Electrographic"
+        }
+    ],
+    "author":"Kate Chopin"
+  },
+  {
     "name":"Call of the Wild",
     "covers":[
       {
