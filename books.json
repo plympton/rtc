@@ -2062,5 +2062,15 @@
       }
     ],
     "author":"Stephen Crane"
+  },
+  {
+    "name":"Inferno",
+    "covers":[
+        {
+          "filename":"rtc_Inferno_nick+fairbank+-+f9+design.jpg",
+          "artist":"nick fairbank - f9 design"
+        }
+    ],
+    "author":"Dante Alighieri"
   }
 ]
